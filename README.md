@@ -24,4 +24,4 @@ https://developer.helpscout.com/docs-api/
 bun download.ts
 ```
 
-A subfolder for each of your Help Scout collections will be created in the main project folder. The text for each article will be saved in the appropriate folder as a `.html` file titled with the article slug.
+A subfolder for each of your Help contribution Scout collections will be created in the main project folder. The text for each article will be saved in the appropriate folder as a `.html` file titled with the article slug.
